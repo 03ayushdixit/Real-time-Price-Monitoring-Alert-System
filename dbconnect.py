@@ -11,3 +11,13 @@ cr= db.cursor()
 cr.execute("show databases")
 for i in cr:
     print(i)
+
+
+
+
+
+
+
+
+
+
